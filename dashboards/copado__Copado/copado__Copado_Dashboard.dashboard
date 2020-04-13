@@ -95,7 +95,7 @@
             <sortBy>RowLabelAscending</sortBy>
         </components>
     </rightSection>
-    <runningUser>paul.m.payne@copadotraining.prod</runningUser>
+    <runningUser>paul.m.payne@copadotraining</runningUser>
     <textColor>#000000</textColor>
     <title>Copado Dashboard</title>
     <titleColor>#000000</titleColor>
