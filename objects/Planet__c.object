@@ -155,9 +155,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Distance_to_Sum__c</fullName>
+        <fullName>Distance_to_Earth__c</fullName>
         <externalId>false</externalId>
-        <label>Distance to Sum?</label>
+        <label>Distance to Earth?</label>
         <precision>18</precision>
         <required>false</required>
         <scale>0</scale>

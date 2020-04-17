@@ -4220,7 +4220,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Planet__c.Distance_to_Sum__c</field>
+        <field>Planet__c.Distance_to_Earth__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
